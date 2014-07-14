@@ -1,0 +1,5 @@
+# Magpar Config File: allopt.txt
+# project name
+-simName sphere
+
+-meshtype 0

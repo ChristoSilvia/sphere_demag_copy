@@ -1,4 +1,4 @@
 #theta phi   K1      K2      Js   A         alpha  psi   # parameter
 #(rad) (rad) (J/m^3) (J/m^3) (T)  (J/m)     (1)    (rad) # units
 
-  0.0  0.0   5.0E+05 0.0     1.32 1.40E-11  0.1    uni   # property 1
+  0.0  0.0   0.0     0.0     1.0  1.0E-11  0.1    uni   # property 1
